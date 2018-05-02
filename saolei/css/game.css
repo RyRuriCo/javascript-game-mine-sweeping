@@ -1,0 +1,95 @@
+﻿#game_panel{
+	position:relative;
+	top:20px;
+	left:40px;	
+
+}
+
+.cube{
+	position:absolute;
+	background-color:#C3C3C3;
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+
+.nomine{
+	position:absolute;
+	background-color:#FFB6C1;
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+
+.mine{
+	position:absolute;
+	background-image: url(../img/mine.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+
+.flag{
+	position:absolute;
+	background-image: url(../img/flag.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+
+.one{
+	position:absolute;
+	background-image: url(../img/one.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+.two{
+	position:absolute;
+	background-image: url(../img/two.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+.three{
+	position:absolute;
+	background-image: url(../img/three.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+.four{
+	position:absolute;
+	background-image: url(../img/four.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+.five{
+	position:absolute;
+	background-image: url(../img/five.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+.six{
+	position:absolute;
+	background-image: url(../img/six.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+.seven{
+	position:absolute;
+	background-image: url(../img/seven.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
+.eight{
+	position:absolute;
+	background-image: url(../img/eight.png);
+	width:40px;
+	height:40px;
+	border:1px solid #fff;
+}
